@@ -1,0 +1,14 @@
+C:\Users\Jasper\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Jasper\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Jasper\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Jasper\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Jasper\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Dance Pattern Layout Program.vbprojAssemblyReference.cache
+C:\Users\Jasper\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Jasper\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Dance Pattern Layout Program.vbproj.GenerateResource.cache
+C:\Users\Jasper\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Dance Pattern Layout Program.vbproj.CoreCompileInputs.cache
+C:\Users\Jasper\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Jasper\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Jasper\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Jasper\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.MainForm.resources
+C:\Users\Jasper\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.SaveToTextForm.resources
+C:\Users\Jasper\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.SaveToImageForm.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dance Pattern Layout Program", "WindowsApp1\Dance Pattern Layout Program.vbproj", "{E2585AD0-2ED7-4F28-B3C5-80860EC8E969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2585AD0-2ED7-4F28-B3C5-80860EC8E969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2585AD0-2ED7-4F28-B3C5-80860EC8E969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2585AD0-2ED7-4F28-B3C5-80860EC8E969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2585AD0-2ED7-4F28-B3C5-80860EC8E969}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C4EFA55-0D0D-4B08-8C76-0DA64743E8BF}
+	EndGlobalSection
+EndGlobal
